@@ -8,6 +8,8 @@ public class DemoD {
 		System.out.println("Java is fun");
 
 		// i have a new group
+
+		// today is friday
 		
 		
 	}
